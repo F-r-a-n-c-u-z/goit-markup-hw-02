@@ -1,0 +1,14 @@
+/* Убрать маркеры из списка */
+ul,ol {           
+    list-style-type: none;
+}
+/* Основные стили */
+a{
+    text-decoration: none;
+    color: inherit;
+}
+
+
+
+
+/* Индивидуальные */
