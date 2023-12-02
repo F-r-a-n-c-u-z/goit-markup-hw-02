@@ -193,6 +193,9 @@ h3 {
 .our-portfolio-item {
 }
 .our-portfolio-img {
+  width: 360px;
+  height: 300px;
+  flex-shrink: 0;
 }
 .our-portfolio-h3 {
 }
