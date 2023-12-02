@@ -9,10 +9,9 @@ a {
   color: currentColor;
 }
 body {
-  font-family: 'Raleway', sans-serif;
   font-family: 'Roboto Condensed', sans-serif;
-  color: #2e2f42;
-  background-color: #fff;
+  color: #434455;
+  background-color: #ffffff;
 
   /* Default values 
    font-size: 16px;
@@ -33,18 +32,18 @@ body {
 }
 .header-logo-accent {
   color: #2e2f42;
-  font-family: Raleway;
+  font-family: 'Raleway', sans-serif;
   font-size: 18px;
   font-weight: 700;
-  line-height: 1.16em;
+  line-height: 1.17em;
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
 .logo {
-  font-family: Raleway;
+  font-family: 'Raleway', sans-serif;
   font-size: 18px;
   font-weight: 700;
-  line-height: 1.16em;
+  line-height: 1.17em;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
@@ -54,8 +53,7 @@ body {
 .header-item {
 }
 .header-link {
-  color: var#2e2f42;
-  font-family: Roboto;
+  color: #2e2f42;
   font-weight: 500;
   line-height: 1.5em;
   letter-spacing: 0.32px;
@@ -68,8 +66,6 @@ body {
 .socials-item {
 }
 .socials-link {
-  color: #434455;
-  font-family: Roboto;
   line-height: 1.5em;
   letter-spacing: 0.02em;
 }
@@ -79,11 +75,11 @@ body {
 /* #endregion */
 /* footer */
 .footer-logo-accent {
+  font-family: 'Raleway', sans-serif;
   color: #f4f4fd;
-  font-family: Raleway;
   font-size: 18px;
   font-weight: 700;
-  line-height: 1.16em;
+  line-height: 1.17em;
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
@@ -95,9 +91,6 @@ body {
 }
 .footer-p {
   color: var(--CLOUD, #f4f4fd);
-
-  /* Body */
-  font-family: Roboto;
   line-height: 1.5em;
   letter-spacing: 0.02em;
 }
@@ -112,7 +105,6 @@ body {
 }
 .button-hero {
   border-radius: 4px;
-  font-family: Roboto;
   font-weight: 500;
   line-height: 1.5em;
   letter-spacing: 0.04em;
@@ -140,7 +132,6 @@ body {
 h1 {
   color: #fff;
   text-align: center;
-  font-family: Roboto;
   font-size: 56px;
   font-weight: 700;
   line-height: 1.07em;
@@ -148,15 +139,12 @@ h1 {
 }
 h3 {
   color: #2e2f42;
-  font-family: Roboto;
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2em;
   letter-spacing: 0.02em;
 }
 .main-p {
-  color: #434455;
-  font-family: Roboto;
   line-height: 1.5em;
   letter-spacing: 0.02em;
 }
@@ -179,15 +167,12 @@ h3 {
 }
 .our-team-h3 {
   color: #2e2f42;
-  font-family: Roboto;
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2em;
   letter-spacing: 0.02em;
 }
 .our-team-p {
-  color: #434455;
-  font-family: Roboto;
   line-height: 1.5em; /* 150% */
   letter-spacing: 0.02em;
 }
@@ -212,8 +197,6 @@ h3 {
 .our-portfolio-h3 {
 }
 .our-portfolio-p {
-  color: #434455;
-  font-family: Roboto;
   line-height: 1.5em;
   letter-spacing: 0.02em;
 }
