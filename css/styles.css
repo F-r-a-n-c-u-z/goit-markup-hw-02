@@ -79,6 +79,9 @@ body {
 .socials-link:hover {
   color: #404bbf;
 }
+.socials-link:focus {
+  color: #404bbf;
+}
 /* #endregion */
 /* footer */
 .footer-logo-accent {
