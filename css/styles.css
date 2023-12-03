@@ -186,6 +186,7 @@ h3 {
     0px 1px 1px 0px rgba(46, 47, 66, 0.16),
     0px 1px 6px 0px rgba(46, 47, 66, 0.08);
 }
+
 .our-team-img {
   width: 264px;
   height: 260px;
@@ -214,7 +215,19 @@ h3 {
 }
 
 /* Our Portfolio */
+.our-portfolio {
+  width: 1440px;
+  height: 3300px;
+}
 .our-portfolio-list {
+  display: flex;
+  width: 360px;
+  height: 420px;
+  padding-bottom: 32px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 32px;
+  flex-shrink: 0;
 }
 .our-portfolio-item {
 }
